@@ -13,8 +13,8 @@ A C++ compiler that supports C++11 or later.
 SFML library for graphics and input handling.
 
 Clone the repository:
-git clone 
-cd 
+git clone https://github.com/declanmckoen/Minesweeper-Project.git
+cd Minesweeper-Project
 
 Ensure SFML is installed on your system. You can download and follow the installation instructions from the SFML website.
 
